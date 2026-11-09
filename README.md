@@ -1,5 +1,7 @@
 # Adversarial Evaluation and Hardening of GPU Fingerprinting for Location Verification
 
+> **Disclaimer:** the paper and this README are drafts written by a large language model (LLM). They were not written by a human.
+
 Code, derived results and the draft paper for an adversarial evaluation of software GPU fingerprinting (atomic-contention fingerprints on NVIDIA H200s), and for a hardened probe that resists the replay and decoy-modelling attacks found against the original design.
 
 **Status:** draft. The paper is in [`paper/gpu_fingerprinting_hardened_paper.pdf`](paper/gpu_fingerprinting_hardened_paper.pdf). Rates in this README are copied from the paper; they are descriptive results from short-gap, single-host trials and have not been independently replicated.
