@@ -1,0 +1,124 @@
+{
+  "records": [
+    {
+      "folder": "campaign_v5_data_59660701_20261108T034630Z",
+      "full_reanalysis_matches": true,
+      "raw_array_hashes": {
+        "0": "3bbe7b8a11cbdaa0e49958a75787ebca6ab7931ac6af2b001c196c8b80f449ed",
+        "1": "1cd1b844684d9f70f2909eb53691be33f378eee84c8adff42ad2ea9d18ea10a7",
+        "2": "92f70a53a758e2a5140cb397266d7925e7a282617e96af298b15a67e74fa4ac8",
+        "3": "ff1c6c1008ee11c748a9d57a393e7419a37795f8abdd2709a0ad2fa54cfd79fe",
+        "4": "311cbdcba40eb2e80094744cc8cb2dec6f0a8d36b4cff3cc581ffb214cb8e346",
+        "5": "7a758ac9b1ced0eaada699ce83cab6c575411eb4818dc28fb63fa0fcb0fcd360",
+        "6": "09e0f1d30c1d52a88dc43a763252d5867fb6c7b02b0b7d980bb04891037a64a4",
+        "7": "8152791c56cedd9147b22df6642def4042b16236b3a0e6d54883bb5cccf1a9c6"
+      },
+      "shape": [
+        10,
+        66,
+        200
+      ]
+    },
+    {
+      "folder": "campaign_v5_data_59660701_20261108T035137Z",
+      "full_reanalysis_matches": true,
+      "raw_array_hashes": {
+        "0": "7440cbfdcd4712d7dae698fea45d8d15d323d108b9bbef842dc3c98f09c8383f",
+        "1": "04f5e26cbf1315c68a0cd86e3ed12b8f3b033179c230b9f7613b697496d90af9",
+        "2": "107778d9bfee3c7676e1ab3aff9f8fb786f18351a3b3ea137eb230ffb089085a",
+        "3": "3142c67f60f5e003c9e0b90a3f10a838cf3baf251713c3377651b617027b7870",
+        "4": "9fef057936727bb2ccfbfa129e86feb7c0ed19e7ad50926945e86ec9a2376b47",
+        "5": "d18cea1555ea2c4c4c12cd90a779481539ea35d4fd4859a664e596bfa5bce523",
+        "6": "89207cc3138cd0ffce9b4d72bf0f794b21f149b522cab4838689c90ad885577d",
+        "7": "61139001b15be21108994d56ce221729ad9b4545e66317f50c6a4d43f55fce64"
+      },
+      "shape": [
+        10,
+        66,
+        200
+      ]
+    },
+    {
+      "folder": "campaign_v5_data_59661478_20261108T035611Z",
+      "full_reanalysis_matches": true,
+      "raw_array_hashes": {
+        "0": "2f94bc74343545331b21fa38b6ce472dbe1ab6bb8f5471f05fc595e38bd4db81",
+        "1": "72df21a16e7c9bbf1b315d38679a45dc210dcc4474103efa8e442e3b32dc7209",
+        "2": "5f82706318519642fee53284d1fee5fbc8b495b7161815e01d82f3d69fea10b2",
+        "3": "fd734342f7f49316017385b7a0f213b54760f66c4c41b5d6118b4fb78b2dbf8b",
+        "4": "e83b51e32e0ffbe8c73065b0e738514c086a402bf5fd0fb1c09ff45f7fdb56f4",
+        "5": "a8a4e366bba2c2eeff3f3a0a487cc7fd0b69b8b999c2ff71827164b33f5f43c6",
+        "6": "6adf0ee9cc9d7d076aa51b43642307f0456d3f96b32c82ae458b0e052c554d01",
+        "7": "43a86f4061c22b4fbe1f4d6912836ddae4fd0194c3829f5dea671e9dbf8d0ca5"
+      },
+      "shape": [
+        10,
+        66,
+        200
+      ]
+    },
+    {
+      "folder": "campaign_v5_data_59661478_20261108T040018Z",
+      "full_reanalysis_matches": true,
+      "raw_array_hashes": {
+        "0": "bdb81fff095c176b0a2b81fe00476edcff3829f5653749d4533264f991bb2526",
+        "1": "7f18f35e5a4357369d38aa9ecd16baa805316f2779bc9781736d1acc294da009",
+        "2": "ef19326d22d0aa6368f2bad2f0da538b16d01ea1f1378ecb11c50d69d21bfa8e",
+        "3": "70e33dc13bb8d0f4916a989798a05864d98485fb08dea533d4dd336250ae8d92",
+        "4": "4d0b99f0f708b6ff2b3a9351820b66186056374960c1f0f8b283e98a90e3932a",
+        "5": "962556d0eb5c736664b7a2da9fd0915dbf18b4682a4bd8856ec36ffc545cc97f",
+        "6": "dbb2063e1c84f2db5e258d219ba658f79b1619267487da0c7ef0ab538ed105ac",
+        "7": "7302a4d64045fd9f6223fd856d3bcff0d975f14441446d3a2d77785c51780b5c"
+      },
+      "shape": [
+        10,
+        66,
+        200
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "runs": [
+        1,
+        2
+      ],
+      "identical_gpu_array_sets": 0
+    },
+    {
+      "runs": [
+        1,
+        3
+      ],
+      "identical_gpu_array_sets": 0
+    },
+    {
+      "runs": [
+        2,
+        3
+      ],
+      "identical_gpu_array_sets": 0
+    },
+    {
+      "runs": [
+        1,
+        4
+      ],
+      "identical_gpu_array_sets": 0
+    },
+    {
+      "runs": [
+        2,
+        4
+      ],
+      "identical_gpu_array_sets": 0
+    },
+    {
+      "runs": [
+        3,
+        4
+      ],
+      "identical_gpu_array_sets": 0
+    }
+  ]
+}

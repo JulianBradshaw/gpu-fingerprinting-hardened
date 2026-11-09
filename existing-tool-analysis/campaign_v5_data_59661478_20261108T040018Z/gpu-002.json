@@ -1,0 +1,11 @@
+{
+  "headers": {
+    "device": "NVIDIA H200",
+    "gpu_uuid": "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+    "n_sms": "132",
+    "compute_cap": "9.0"
+  },
+  "batch_process_seconds": 100.40112437005155,
+  "timing_scope": "whole batch process; not kernel-only or attack latency",
+  "npz_sha256": "a80822d5ab7a795b210338602b9f0abb62bc6b9d30028ca325e2b31cbfee5d47"
+}

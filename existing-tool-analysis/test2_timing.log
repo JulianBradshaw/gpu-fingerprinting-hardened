@@ -1,0 +1,13 @@
+compiling...
+
+runtime over 30 runs (seed 12345):
+  mean       848.6 ms
+  std         98.8 ms
+  min        764.7 ms
+  max       1345.0 ms
+  max-min    580.4 ms   ~  58038 km relay slack
+  p95-p5     120.6 ms   ~  12059 km relay slack
+
+Interpretation: the larger the spread, the more room a relayed response
+has to hide inside normal timing variation. Compare against the location
+protocol's claimed timing resolution.

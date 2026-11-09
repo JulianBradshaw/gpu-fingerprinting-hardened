@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "script_version": "4.0",
+  "session_id": "4ae03fa9-d85c-4fd1-9b49-2026f057c32e",
+  "created_utc": "2026-11-08T03:56:41.876562+00:00",
+  "python": "3.11.9",
+  "numpy": "1.26.4",
+  "source_sha256": "073481f1b2df1b2405754bb3adc6cd880aa67e06d50addd52c3db8c2777afd1a",
+  "script_sha256": "ba3dd9d4bc3fc388aa31c90eba2e1d25fe6b18c47c02d5ee451e6c90ba11a285",
+  "devices": [
+    {
+      "uuid": "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+      "name": "NVIDIA H200"
+    },
+    {
+      "uuid": "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa",
+      "name": "NVIDIA H200"
+    }
+  ],
+  "design": {
+    "uniform": [
+      1789368711,
+      43676229,
+      1282648386,
+      1582316135,
+      831769172,
+      1160692746,
+      1873586768,
+      694443915,
+      1602297017,
+      533722196,
+      1859447115,
+      1121373020,
+      748799881,
+      802338724,
+      1524289825,
+      392105170
+    ],
+    "residue_groups": {
+      "0": [
+        0,
+        64,
+        65536,
+        16777216
+      ],
+      "1": [
+        1,
+        65,
+        65537,
+        16777217
+      ],
+      "2": [
+        2,
+        66,
+        65538,
+        16777218
+      ],
+      "3": [
+        3,
+        67,
+        65539,
+        16777219
+      ]
+    },
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      64,
+      65,
+      66,
+      67,
+      65536,
+      65537,
+      65538,
+      65539,
+      16777216,
+      16777217,
+      16777218,
+      16777219,
+      43676229,
+      392105170,
+      533722196,
+      694443915,
+      748799881,
+      802338724,
+      831769172,
+      1121373020,
+      1160692746,
+      1282648386,
+      1524289825,
+      1582316135,
+      1602297017,
+      1789368711,
+      1859447115,
+      1873586768
+    ],
+    "seed_generation_seed": 12345,
+    "seed_space": "effective 31-bit LCG states"
+  },
+  "runs": 10,
+  "roles": {
+    "registration": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "evaluation": 8,
+    "calibration": 9
+  },
+  "order_seed": 99,
+  "status": "complete",
+  "scope": "within-session; no temperature/power/transport intervention",
+  "compile_flags": [
+    "-O0",
+    "-arch=sm_90"
+  ],
+  "compiler_version": "nvcc: NVIDIA (R) Cuda compiler driver\nCopyright (c) 2005-2024 NVIDIA Corporation\nBuilt on Thu_Mar_28_02:18:24_PDT_2024\nCuda compilation tools, release 12.4, V12.4.131\nBuild cuda_12.4.r12.4/compiler.34097967_0\n"
+}

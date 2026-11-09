@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+# Raw data is not committed; see data/RAW_DATA_SHA256SUMS.txt
+*.tar.gz
+existing-tool-analysis/campaign_v5_data_*/gpu-*.npz
+# Compiled probe binaries
+*.exe
+*.exp
+*.lib
+new-tool-analysis/**/probe_hardened
+new-tool-analysis/**/probe_legacy

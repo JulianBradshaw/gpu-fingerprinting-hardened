@@ -1,0 +1,11 @@
+{
+  "script_sha256": "ba7ba5ed885187bff1fe2e89285d693d3aa31d01e31a6bde3d5953ed2801e6f3",
+  "helper_sha256": "9e3f3d97f9fe8861babaa24de47ba04774935b7738587fa3175bc23fa84ab8b1",
+  "session_ids": [
+    "55c13ffd-ef24-48a3-ac23-6bf1045cc49e",
+    "ac47f07f-958b-4aba-8e61-a0938936440e",
+    "4ae03fa9-d85c-4fd1-9b49-2026f057c32e",
+    "41ba0d3d-cc36-4d25-9fa3-de23a995bb3b"
+  ],
+  "models_and_controls": "Checksummed raw arrays; default split controls; overlapping splits, no independent-replication claims."
+}

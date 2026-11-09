@@ -1,0 +1,164 @@
+[
+  {
+    "registration_run": 1,
+    "attack_scope": "source_trained/",
+    "threshold": 42610,
+    "per_run": [
+      {
+        "verification_run": 2,
+        "genuine_accepted": 87,
+        "n": 128
+      },
+      {
+        "verification_run": 3,
+        "genuine_accepted": 100,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 91,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.6796875
+  },
+  {
+    "registration_run": 1,
+    "attack_scope": "destination_trained/",
+    "threshold": 43292,
+    "per_run": [
+      {
+        "verification_run": 2,
+        "genuine_accepted": 89,
+        "n": 128
+      },
+      {
+        "verification_run": 3,
+        "genuine_accepted": 100,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 91,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.6953125
+  },
+  {
+    "registration_run": 1,
+    "attack_scope": "all_tested_models",
+    "threshold": 42610,
+    "per_run": [
+      {
+        "verification_run": 2,
+        "genuine_accepted": 87,
+        "n": 128
+      },
+      {
+        "verification_run": 3,
+        "genuine_accepted": 100,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 91,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.6796875
+  },
+  {
+    "registration_run": 2,
+    "attack_scope": "source_trained/",
+    "threshold": 41850,
+    "per_run": [
+      {
+        "verification_run": 3,
+        "genuine_accepted": 114,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 107,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8359375
+  },
+  {
+    "registration_run": 2,
+    "attack_scope": "destination_trained/",
+    "threshold": 44967,
+    "per_run": [
+      {
+        "verification_run": 3,
+        "genuine_accepted": 116,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 111,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8671875
+  },
+  {
+    "registration_run": 2,
+    "attack_scope": "all_tested_models",
+    "threshold": 41850,
+    "per_run": [
+      {
+        "verification_run": 3,
+        "genuine_accepted": 114,
+        "n": 128
+      },
+      {
+        "verification_run": 4,
+        "genuine_accepted": 107,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8359375
+  },
+  {
+    "registration_run": 3,
+    "attack_scope": "source_trained/",
+    "threshold": 44609,
+    "per_run": [
+      {
+        "verification_run": 4,
+        "genuine_accepted": 103,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8046875
+  },
+  {
+    "registration_run": 3,
+    "attack_scope": "destination_trained/",
+    "threshold": 42191,
+    "per_run": [
+      {
+        "verification_run": 4,
+        "genuine_accepted": 103,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8046875
+  },
+  {
+    "registration_run": 3,
+    "attack_scope": "all_tested_models",
+    "threshold": 42191,
+    "per_run": [
+      {
+        "verification_run": 4,
+        "genuine_accepted": 103,
+        "n": 128
+      }
+    ],
+    "minimum_genuine_acceptance": 0.8046875
+  }
+]

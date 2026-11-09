@@ -1,0 +1,7 @@
+compiling...
+
+noise floor (same seed, diff run):                12385
+mean L1, seeds EQUAL mod 64:                      116620   (expect ~noise floor)
+mean L1, seeds DIFFERENT mod 64:                 1875854   (expect >> floor)
+
+VERDICT: inconclusive - inspect values above

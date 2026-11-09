@@ -1,0 +1,211 @@
+{
+  "devices": {
+    "A": "GPU-07b83180-4925-5b06-03cf-908da9d04473",
+    "B": "GPU-13b16533-136f-2b4f-c0e6-94d7285ebe33",
+    "C": "GPU-52a249ea-769e-3ba8-84ed-548300722cea",
+    "D": "GPU-980134cc-dd75-deb9-a434-d303327170bd",
+    "E": "GPU-9a7c4b82-d26f-dd4d-11df-fd3f81dcc1d8",
+    "F": "GPU-a0c4974a-a4d9-dbc5-50f9-111ad0f522c6",
+    "G": "GPU-d06ba47e-c32f-f84d-8e4f-68b07a0cb0c5",
+    "H": "GPU-f94fa06b-0acf-9159-2791-bd9b0c090da7"
+  },
+  "gap_seconds": 300,
+  "results": {
+    "legacy": {
+      "frozen": {
+        "q95": {
+          "thresholds": [
+            265360.0,
+            18148.0,
+            18288.0,
+            64326.0,
+            156042.0,
+            18330.0,
+            42288.0,
+            65646.0
+          ],
+          "genuine": 201,
+          "genuine_by_gpu": [
+            32,
+            29,
+            29,
+            32,
+            0,
+            30,
+            32,
+            17
+          ],
+          "wrong_chip": 12,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 66,
+          "ensemble": 122,
+          "ensemble_bounded": 122
+        },
+        "max": {
+          "thresholds": [
+            266554.0,
+            19596.0,
+            22542.0,
+            94520.0,
+            156150.0,
+            18980.0,
+            51046.0,
+            77350.0
+          ],
+          "genuine": 207,
+          "genuine_by_gpu": [
+            32,
+            29,
+            32,
+            32,
+            0,
+            30,
+            32,
+            20
+          ],
+          "wrong_chip": 19,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 69,
+          "ensemble": 181,
+          "ensemble_bounded": 181
+        },
+        "historical_pooled_p95": {
+          "thresholds": [
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998,
+            260857.59999999998
+          ],
+          "genuine": 219,
+          "genuine_by_gpu": [
+            32,
+            30,
+            32,
+            32,
+            0,
+            30,
+            32,
+            31
+          ],
+          "wrong_chip": 37,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 138,
+          "ensemble": 224,
+          "ensemble_bounded": 224
+        }
+      },
+      "heldout_tradeoff": {},
+      "nearest_correct": 219
+    },
+    "hardened": {
+      "frozen": {
+        "q95": {
+          "thresholds": [
+            0.3566524621212121,
+            0.3366477272727273,
+            0.3366477272727273,
+            0.32646780303030304,
+            0.34126420454545453,
+            0.3368844696969697,
+            0.3379498106060606,
+            0.3353456439393939
+          ],
+          "genuine": 228,
+          "genuine_by_gpu": [
+            32,
+            26,
+            32,
+            32,
+            20,
+            32,
+            29,
+            25
+          ],
+          "wrong_chip": 15,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 0,
+          "ensemble": 25
+        },
+        "max": {
+          "thresholds": [
+            0.35712594696969696,
+            0.3372395833333333,
+            0.3366477272727273,
+            0.33037405303030304,
+            0.34375,
+            0.33937026515151514,
+            0.3390151515151515,
+            0.33617424242424243
+          ],
+          "genuine": 229,
+          "genuine_by_gpu": [
+            32,
+            26,
+            32,
+            32,
+            21,
+            32,
+            29,
+            25
+          ],
+          "wrong_chip": 15,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 0,
+          "ensemble": 25
+        },
+        "historical_pooled_p95": {
+          "thresholds": [
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365,
+            0.34410511363636365
+          ],
+          "genuine": 221,
+          "genuine_by_gpu": [
+            22,
+            26,
+            32,
+            32,
+            22,
+            32,
+            29,
+            26
+          ],
+          "wrong_chip": 17,
+          "genuine_n": 256,
+          "wrong_chip_n": 1792,
+          "single": 0,
+          "ensemble": 25
+        }
+      },
+      "heldout_tradeoff": {
+        "0.9": {
+          "genuine": 231,
+          "single": 0,
+          "ensemble": 25
+        }
+      },
+      "nearest_correct": 232
+    }
+  },
+  "notes": [
+    "256 held-out requests per arm. Genuine and target-specific spoof counts use the same denominator.",
+    "Seven-decoy and single-decoy corrections exclude the tested challenge and use registration on other seeds.",
+    "Legacy truncation reproduces the historical scorer; ensemble_bounded separately clips to legacy counter bounds.",
+    "Hardened predictions are projected to valid per-round rank permutations. Its native response uses three launches.",
+    "Held-out tradeoff is descriptive. Use frozen points for the primary comparison."
+  ]
+}

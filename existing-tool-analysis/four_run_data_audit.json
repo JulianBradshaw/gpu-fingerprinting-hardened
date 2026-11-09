@@ -1,0 +1,806 @@
+{
+  "datasets": [
+    {
+      "folder": "campaign_v5_data_59660701_20261108T034630Z",
+      "session_id": "55c13ffd-ef24-48a3-ac23-6bf1045cc49e",
+      "created_local": "2026-11-07T20:47:06.775309-07:00",
+      "status": "complete",
+      "uuids": [
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09",
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94",
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b",
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa"
+      ],
+      "shape": [
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ]
+      ],
+      "archive_hashes": [
+        "0096d22064bd0f58b02997646b0c31614c203157dde52a3841b26c58b3b6ba38",
+        "1ee1105c69851a36344fa454affb6bd446407bcc6d21d4b51adb2f7293008046",
+        "d7f61d70f9ba1761c6d127fd4142e34ed0502f731702b369c91407298167c0a3",
+        "22de97e6f749996ffbb97d86b57be20e278255179ab8ee75438f84444983535a",
+        "fed91e3779ddf3abdad20f06354450e85f2cb562ec74280792f55da64bcad7b0",
+        "78cb79877d85eda4a0ae22d3f39cc91d0e7ec5b96410cc32e1e66816e7a2d96c",
+        "096f9ea4a19111604b8b12beb92cd48c54f5b588749a1fd18ec92ead809b7827",
+        "63876c5b2c58bd2f6e53decdef7bde6c6f958ddfe17d866fe651e5ee12ae94d2"
+      ],
+      "checks_pass": true,
+      "seed_design": {
+        "uniform": [
+          1789368711,
+          43676229,
+          1282648386,
+          1582316135,
+          831769172,
+          1160692746,
+          1873586768,
+          694443915,
+          1602297017,
+          533722196,
+          1859447115,
+          1121373020,
+          748799881,
+          802338724,
+          1524289825,
+          392105170
+        ],
+        "residue_groups": {
+          "0": [
+            0,
+            64,
+            65536,
+            16777216
+          ],
+          "1": [
+            1,
+            65,
+            65537,
+            16777217
+          ],
+          "2": [
+            2,
+            66,
+            65538,
+            16777218
+          ],
+          "3": [
+            3,
+            67,
+            65539,
+            16777219
+          ]
+        },
+        "seeds": [
+          0,
+          1,
+          2,
+          3,
+          64,
+          65,
+          66,
+          67,
+          65536,
+          65537,
+          65538,
+          65539,
+          16777216,
+          16777217,
+          16777218,
+          16777219,
+          43676229,
+          392105170,
+          533722196,
+          694443915,
+          748799881,
+          802338724,
+          831769172,
+          1121373020,
+          1160692746,
+          1282648386,
+          1524289825,
+          1582316135,
+          1602297017,
+          1789368711,
+          1859447115,
+          1873586768
+        ],
+        "seed_generation_seed": 12345,
+        "seed_space": "effective 31-bit LCG states"
+      },
+      "source_sha256": "073481f1b2df1b2405754bb3adc6cd880aa67e06d50addd52c3db8c2777afd1a",
+      "script_sha256": "ba3dd9d4bc3fc388aa31c90eba2e1d25fe6b18c47c02d5ee451e6c90ba11a285",
+      "p95_threshold": 41725.5,
+      "results": {
+        "genuine": [
+          118,
+          128
+        ],
+        "single_decoy_x1.0": [
+          0,
+          128
+        ],
+        "ensemble_7_decoys_x1.0": [
+          11,
+          128
+        ],
+        "replay_recorded_run": [
+          0,
+          96
+        ],
+        "replay_mean_of_8": [
+          0,
+          96
+        ]
+      },
+      "analysis_session_matches": true
+    },
+    {
+      "folder": "campaign_v5_data_59660701_20261108T035137Z",
+      "session_id": "ac47f07f-958b-4aba-8e61-a0938936440e",
+      "created_local": "2026-11-07T20:51:46.688788-07:00",
+      "status": "complete",
+      "uuids": [
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09",
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94",
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b",
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa"
+      ],
+      "shape": [
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ]
+      ],
+      "archive_hashes": [
+        "fe7d8c76db79b6ef32600d126612e36e73d053cb5ee562e7a9f4ef8cef279704",
+        "221994d8e9df84f8436ca9bca3709620bda818abbb16c0f10d9c614652bfa057",
+        "71907447dbcd91d5fb30e7e8eb2934b67907923e43d41c0438990eada082bc88",
+        "46df8e3188e8b466d35e59e18a50c70e0b2918b9f11814874923a8625748333f",
+        "405aa9d1d98a6fa76c2b7a3c2699d9ef9be99eafbe5813fd516522491ca592e9",
+        "131b08e0e13fe576c9fb073583ecf9fc3b059f1e258dc475913c80e060062e55",
+        "d22afb4d0f645b156939c4ba3086d9d17c7f755de9aafefe1271f65c0a00839a",
+        "dacf910f193fc0907a645d9d729d4520855545b7735dfdd719b48a290978cee2"
+      ],
+      "checks_pass": true,
+      "seed_design": {
+        "uniform": [
+          1789368711,
+          43676229,
+          1282648386,
+          1582316135,
+          831769172,
+          1160692746,
+          1873586768,
+          694443915,
+          1602297017,
+          533722196,
+          1859447115,
+          1121373020,
+          748799881,
+          802338724,
+          1524289825,
+          392105170
+        ],
+        "residue_groups": {
+          "0": [
+            0,
+            64,
+            65536,
+            16777216
+          ],
+          "1": [
+            1,
+            65,
+            65537,
+            16777217
+          ],
+          "2": [
+            2,
+            66,
+            65538,
+            16777218
+          ],
+          "3": [
+            3,
+            67,
+            65539,
+            16777219
+          ]
+        },
+        "seeds": [
+          0,
+          1,
+          2,
+          3,
+          64,
+          65,
+          66,
+          67,
+          65536,
+          65537,
+          65538,
+          65539,
+          16777216,
+          16777217,
+          16777218,
+          16777219,
+          43676229,
+          392105170,
+          533722196,
+          694443915,
+          748799881,
+          802338724,
+          831769172,
+          1121373020,
+          1160692746,
+          1282648386,
+          1524289825,
+          1582316135,
+          1602297017,
+          1789368711,
+          1859447115,
+          1873586768
+        ],
+        "seed_generation_seed": 12345,
+        "seed_space": "effective 31-bit LCG states"
+      },
+      "source_sha256": "073481f1b2df1b2405754bb3adc6cd880aa67e06d50addd52c3db8c2777afd1a",
+      "script_sha256": "ba3dd9d4bc3fc388aa31c90eba2e1d25fe6b18c47c02d5ee451e6c90ba11a285",
+      "p95_threshold": 67486.89999999995,
+      "results": {
+        "genuine": [
+          118,
+          128
+        ],
+        "single_decoy_x1.0": [
+          31,
+          128
+        ],
+        "ensemble_7_decoys_x1.0": [
+          87,
+          128
+        ],
+        "replay_recorded_run": [
+          1,
+          96
+        ],
+        "replay_mean_of_8": [
+          0,
+          96
+        ]
+      },
+      "analysis_session_matches": true
+    },
+    {
+      "folder": "campaign_v5_data_59661478_20261108T035611Z",
+      "session_id": "4ae03fa9-d85c-4fd1-9b49-2026f057c32e",
+      "created_local": "2026-11-07T20:56:41.876562-07:00",
+      "status": "complete",
+      "uuids": [
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09",
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94",
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b",
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa"
+      ],
+      "shape": [
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ]
+      ],
+      "archive_hashes": [
+        "76dccc7a5d67f312363b337308ffb7cd7c78dd0b8d634ed57eef4c51af63dd6a",
+        "59ce70e8c18f8deadd7dc968594df83e33b94ea3846c3c0053e8bffc4a74352a",
+        "6568d7595cd1b71267c9fcba3d92a30dc804a69831f68737504434cda8b83dd2",
+        "0f84568c7ff6640662ad61bf7adf6d2d3583b3de43f813797f08bc4b16f168dd",
+        "e8c32aefbe67da9c032b8a74bc29cb7fed6efd7b79de47e5ea235a9b2047f7c7",
+        "51db9a230ffb4ecce0fd18be05b4f4048df66ae4cb3ae504d5fafb382c1a399f",
+        "04b9ad5f6cd2735523ab700ac589509fe295627e970f5751feb928bd9e65f701",
+        "c0383488d2706716c4087c28e1ef9762908edda57466d78805489a5b35e63960"
+      ],
+      "checks_pass": true,
+      "seed_design": {
+        "uniform": [
+          1789368711,
+          43676229,
+          1282648386,
+          1582316135,
+          831769172,
+          1160692746,
+          1873586768,
+          694443915,
+          1602297017,
+          533722196,
+          1859447115,
+          1121373020,
+          748799881,
+          802338724,
+          1524289825,
+          392105170
+        ],
+        "residue_groups": {
+          "0": [
+            0,
+            64,
+            65536,
+            16777216
+          ],
+          "1": [
+            1,
+            65,
+            65537,
+            16777217
+          ],
+          "2": [
+            2,
+            66,
+            65538,
+            16777218
+          ],
+          "3": [
+            3,
+            67,
+            65539,
+            16777219
+          ]
+        },
+        "seeds": [
+          0,
+          1,
+          2,
+          3,
+          64,
+          65,
+          66,
+          67,
+          65536,
+          65537,
+          65538,
+          65539,
+          16777216,
+          16777217,
+          16777218,
+          16777219,
+          43676229,
+          392105170,
+          533722196,
+          694443915,
+          748799881,
+          802338724,
+          831769172,
+          1121373020,
+          1160692746,
+          1282648386,
+          1524289825,
+          1582316135,
+          1602297017,
+          1789368711,
+          1859447115,
+          1873586768
+        ],
+        "seed_generation_seed": 12345,
+        "seed_space": "effective 31-bit LCG states"
+      },
+      "source_sha256": "073481f1b2df1b2405754bb3adc6cd880aa67e06d50addd52c3db8c2777afd1a",
+      "script_sha256": "ba3dd9d4bc3fc388aa31c90eba2e1d25fe6b18c47c02d5ee451e6c90ba11a285",
+      "p95_threshold": 153213.89999999967,
+      "results": {
+        "genuine": [
+          122,
+          128
+        ],
+        "single_decoy_x1.0": [
+          87,
+          128
+        ],
+        "ensemble_7_decoys_x1.0": [
+          112,
+          128
+        ],
+        "replay_recorded_run": [
+          88,
+          96
+        ],
+        "replay_mean_of_8": [
+          80,
+          96
+        ]
+      },
+      "analysis_session_matches": true
+    },
+    {
+      "folder": "campaign_v5_data_59661478_20261108T040018Z",
+      "session_id": "41ba0d3d-cc36-4d25-9fa3-de23a995bb3b",
+      "created_local": "2026-11-07T21:00:27.894893-07:00",
+      "status": "complete",
+      "uuids": [
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09",
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94",
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc",
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b",
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa"
+      ],
+      "shape": [
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ],
+        [
+          32,
+          10,
+          66,
+          200
+        ]
+      ],
+      "archive_hashes": [
+        "e0038612cfb78bae1da0261bb7a5dac3d5616d5fee065b284426e5ea92fbcb4f",
+        "289c586b8eaafed4670aeb36630ff84dab07800d075bc68b5cee76fff755d013",
+        "a80822d5ab7a795b210338602b9f0abb62bc6b9d30028ca325e2b31cbfee5d47",
+        "fa67bfcbbfb268561a7e968c918d911b73956409b7ba7f012164ca828d1241aa",
+        "35ac8d029c584b4a99f130d8bc72908558350c6b701f8b471569618ec0f9a63b",
+        "b7b9b8eaa5ca6040f3b188eca3174a14b711b7bb2d8663c5d0b0e376f1ff951e",
+        "38f24443fc866696164b145affeba4fb43332f5f56380180f195824efd1e6f2c",
+        "ab40b1ee978183ab5d4da63c6611e47a0c4c5d4fff8dd51fb57c163dd8b7b3f3"
+      ],
+      "checks_pass": true,
+      "seed_design": {
+        "uniform": [
+          1789368711,
+          43676229,
+          1282648386,
+          1582316135,
+          831769172,
+          1160692746,
+          1873586768,
+          694443915,
+          1602297017,
+          533722196,
+          1859447115,
+          1121373020,
+          748799881,
+          802338724,
+          1524289825,
+          392105170
+        ],
+        "residue_groups": {
+          "0": [
+            0,
+            64,
+            65536,
+            16777216
+          ],
+          "1": [
+            1,
+            65,
+            65537,
+            16777217
+          ],
+          "2": [
+            2,
+            66,
+            65538,
+            16777218
+          ],
+          "3": [
+            3,
+            67,
+            65539,
+            16777219
+          ]
+        },
+        "seeds": [
+          0,
+          1,
+          2,
+          3,
+          64,
+          65,
+          66,
+          67,
+          65536,
+          65537,
+          65538,
+          65539,
+          16777216,
+          16777217,
+          16777218,
+          16777219,
+          43676229,
+          392105170,
+          533722196,
+          694443915,
+          748799881,
+          802338724,
+          831769172,
+          1121373020,
+          1160692746,
+          1282648386,
+          1524289825,
+          1582316135,
+          1602297017,
+          1789368711,
+          1859447115,
+          1873586768
+        ],
+        "seed_generation_seed": 12345,
+        "seed_space": "effective 31-bit LCG states"
+      },
+      "source_sha256": "073481f1b2df1b2405754bb3adc6cd880aa67e06d50addd52c3db8c2777afd1a",
+      "script_sha256": "ba3dd9d4bc3fc388aa31c90eba2e1d25fe6b18c47c02d5ee451e6c90ba11a285",
+      "p95_threshold": 79429.89999999998,
+      "results": {
+        "genuine": [
+          124,
+          128
+        ],
+        "single_decoy_x1.0": [
+          37,
+          128
+        ],
+        "ensemble_7_decoys_x1.0": [
+          96,
+          128
+        ],
+        "replay_recorded_run": [
+          3,
+          96
+        ],
+        "replay_mean_of_8": [
+          3,
+          96
+        ]
+      },
+      "analysis_session_matches": true
+    }
+  ],
+  "comparisons": [
+    {
+      "runs": [
+        1,
+        2
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    },
+    {
+      "runs": [
+        1,
+        3
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    },
+    {
+      "runs": [
+        2,
+        3
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    },
+    {
+      "runs": [
+        1,
+        4
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    },
+    {
+      "runs": [
+        2,
+        4
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    },
+    {
+      "runs": [
+        3,
+        4
+      ],
+      "shared_gpu_uuids": 8,
+      "same_gpu_order": true,
+      "same_design": true,
+      "identical_archives": 0
+    }
+  ]
+}

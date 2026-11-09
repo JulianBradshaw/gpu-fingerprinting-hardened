@@ -1,0 +1,2787 @@
+{
+  "method": "Ten cyclic ordered held-out pairs: eval e, cal (e+1)%10. Each measurement fills each held-out role once. Source-trained x1 single/7-decoy attacks only. Other eight runs register. Not independent replications.",
+  "results": [
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 50620.2,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 119,
+        "distance_passes": 119
+      },
+      "single": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 21,
+        "distance_passes": 21
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 50620.2,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 115,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 23,
+        "distance_passes": 24
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 50620.2,
+      "genuine": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 100,
+        "distance_passes": 100
+      },
+      "single": {
+        "n": 128,
+        "matches": 108,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 36,
+        "distance_passes": 36
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 50620.2,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 117,
+        "distance_passes": 117
+      },
+      "single": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 21,
+        "distance_passes": 22
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 182740.8999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 118,
+        "distance_passes": 120
+      },
+      "single": {
+        "n": 128,
+        "matches": 108,
+        "accepted": 81,
+        "distance_passes": 81
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 182740.8999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 104,
+        "accepted": 104,
+        "distance_passes": 106
+      },
+      "single": {
+        "n": 128,
+        "matches": 92,
+        "accepted": 65,
+        "distance_passes": 67
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 182740.8999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 121,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 84,
+        "distance_passes": 84
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 158570.3999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 115,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 82,
+        "accepted": 76,
+        "distance_passes": 79
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 158570.3999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 101,
+        "accepted": 91,
+        "distance_passes": 92
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 0,
+      "calibration": 1,
+      "threshold": 188792.8999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 120,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 85,
+        "distance_passes": 85
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 43974.09999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 114,
+        "distance_passes": 114
+      },
+      "single": {
+        "n": 128,
+        "matches": 115,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 16,
+        "distance_passes": 16
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 43974.09999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 102,
+        "distance_passes": 102
+      },
+      "single": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 115,
+        "accepted": 9,
+        "distance_passes": 9
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 43974.09999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 100,
+        "distance_passes": 100
+      },
+      "single": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 13,
+        "distance_passes": 13
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 43974.09999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 105,
+        "distance_passes": 105
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 10,
+        "distance_passes": 10
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 156246.19999999992,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 123,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 110,
+        "accepted": 79,
+        "distance_passes": 79
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 156246.19999999992,
+      "genuine": {
+        "n": 128,
+        "matches": 115,
+        "accepted": 113,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 103,
+        "accepted": 69,
+        "distance_passes": 69
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 111,
+        "distance_passes": 111
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 156246.19999999992,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 124,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 78,
+        "distance_passes": 78
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 41682.99999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 112,
+        "distance_passes": 113
+      },
+      "single": {
+        "n": 128,
+        "matches": 93,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 1,
+        "distance_passes": 1
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 41682.99999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 112,
+        "distance_passes": 112
+      },
+      "single": {
+        "n": 128,
+        "matches": 102,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 3,
+        "distance_passes": 3
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 1,
+      "calibration": 2,
+      "threshold": 93341.99999999987,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 119,
+        "distance_passes": 119
+      },
+      "single": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 63,
+        "distance_passes": 63
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 45279.19999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 123,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 16,
+        "distance_passes": 16
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 45279.19999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 98,
+        "distance_passes": 98
+      },
+      "single": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 8,
+        "distance_passes": 8
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 45279.19999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 113,
+        "distance_passes": 113
+      },
+      "single": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 15,
+        "distance_passes": 15
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 45279.19999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 99,
+        "distance_passes": 99
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 8,
+        "distance_passes": 8
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 86441.39999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 116,
+        "distance_passes": 116
+      },
+      "single": {
+        "n": 128,
+        "matches": 111,
+        "accepted": 51,
+        "distance_passes": 51
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 86441.39999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 123,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 108,
+        "accepted": 46,
+        "distance_passes": 46
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 86441.39999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 123,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 55,
+        "distance_passes": 55
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 50918.0,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 124,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 96,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 20,
+        "distance_passes": 20
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 50918.0,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 114,
+        "distance_passes": 114
+      },
+      "single": {
+        "n": 128,
+        "matches": 103,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 15,
+        "distance_passes": 15
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 2,
+      "calibration": 3,
+      "threshold": 111449.29999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 97,
+        "distance_passes": 97
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 49064.399999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 20,
+        "distance_passes": 20
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 49064.399999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 100,
+        "distance_passes": 100
+      },
+      "single": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 18,
+        "distance_passes": 18
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 49064.399999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 115,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 20,
+        "distance_passes": 20
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 49064.399999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 98,
+        "distance_passes": 98
+      },
+      "single": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 14,
+        "distance_passes": 14
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 113897.6999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 123,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 113897.6999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 126,
+        "distance_passes": 127
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 113897.6999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 120,
+        "distance_passes": 120
+      },
+      "single": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 53791.699999999866,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 123,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 102,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 36,
+        "distance_passes": 36
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 53791.699999999866,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 114,
+        "distance_passes": 114
+      },
+      "single": {
+        "n": 128,
+        "matches": 97,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 19,
+        "distance_passes": 19
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 3,
+      "calibration": 4,
+      "threshold": 91967.49999999967,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 121,
+        "distance_passes": 121
+      },
+      "single": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 60,
+        "distance_passes": 60
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 67800.09999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 47,
+        "distance_passes": 48
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 108,
+        "distance_passes": 110
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 67800.09999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 102,
+        "distance_passes": 102
+      },
+      "single": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 42,
+        "distance_passes": 43
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 100,
+        "distance_passes": 102
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 67800.09999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 117,
+        "distance_passes": 117
+      },
+      "single": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 34,
+        "distance_passes": 34
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 103,
+        "distance_passes": 109
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 67800.09999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 104,
+        "distance_passes": 104
+      },
+      "single": {
+        "n": 128,
+        "matches": 108,
+        "accepted": 42,
+        "distance_passes": 43
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 100,
+        "distance_passes": 102
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 97848.29999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 60,
+        "distance_passes": 60
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 97848.29999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 57,
+        "distance_passes": 57
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 97848.29999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 119,
+        "distance_passes": 119
+      },
+      "single": {
+        "n": 128,
+        "matches": 106,
+        "accepted": 59,
+        "distance_passes": 59
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 76671.69999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 101,
+        "accepted": 31,
+        "distance_passes": 31
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 94,
+        "distance_passes": 94
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 76671.69999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 116,
+        "distance_passes": 116
+      },
+      "single": {
+        "n": 128,
+        "matches": 92,
+        "accepted": 29,
+        "distance_passes": 29
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 95,
+        "distance_passes": 95
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 4,
+      "calibration": 5,
+      "threshold": 86977.49999999994,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 121,
+        "distance_passes": 121
+      },
+      "single": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 58,
+        "distance_passes": 58
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 57397.9999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 121,
+        "distance_passes": 121
+      },
+      "single": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 11,
+        "distance_passes": 11
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 73,
+        "distance_passes": 75
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 57397.9999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 89,
+        "distance_passes": 89
+      },
+      "single": {
+        "n": 128,
+        "matches": 109,
+        "accepted": 14,
+        "distance_passes": 14
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 49,
+        "distance_passes": 50
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 57397.9999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 112,
+        "distance_passes": 112
+      },
+      "single": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 5,
+        "distance_passes": 5
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 63,
+        "distance_passes": 67
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 57397.9999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 117,
+        "accepted": 98,
+        "distance_passes": 98
+      },
+      "single": {
+        "n": 128,
+        "matches": 105,
+        "accepted": 7,
+        "distance_passes": 7
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 52,
+        "distance_passes": 52
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 104750.79999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 120,
+        "distance_passes": 120
+      },
+      "single": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 104750.79999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 126,
+        "distance_passes": 126
+      },
+      "single": {
+        "n": 128,
+        "matches": 106,
+        "accepted": 63,
+        "distance_passes": 63
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 104750.79999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 121,
+        "distance_passes": 121
+      },
+      "single": {
+        "n": 128,
+        "matches": 102,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 146384.19999999952,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 124,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 96,
+        "accepted": 93,
+        "distance_passes": 94
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 146384.19999999952,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 115,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 87,
+        "accepted": 80,
+        "distance_passes": 82
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 5,
+      "calibration": 6,
+      "threshold": 88871.8,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 120,
+        "distance_passes": 120
+      },
+      "single": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 56,
+        "distance_passes": 56
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 167256.5999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 128,
+        "distance_passes": 128
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 167256.5999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 103,
+        "distance_passes": 103
+      },
+      "single": {
+        "n": 128,
+        "matches": 111,
+        "accepted": 101,
+        "distance_passes": 101
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 128,
+        "distance_passes": 128
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 167256.5999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 110,
+        "distance_passes": 111
+      },
+      "single": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 111,
+        "distance_passes": 111
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 128,
+        "distance_passes": 128
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 167256.5999999986,
+      "genuine": {
+        "n": 128,
+        "matches": 120,
+        "accepted": 99,
+        "distance_passes": 99
+      },
+      "single": {
+        "n": 128,
+        "matches": 102,
+        "accepted": 96,
+        "distance_passes": 96
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 128,
+        "distance_passes": 128
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 99412.79999999977,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 111,
+        "accepted": 63,
+        "distance_passes": 63
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 99412.79999999977,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 121,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 106,
+        "accepted": 60,
+        "distance_passes": 60
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 99412.79999999977,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 108,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 118,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 49650.89999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 119,
+        "distance_passes": 119
+      },
+      "single": {
+        "n": 128,
+        "matches": 98,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 18,
+        "distance_passes": 18
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 49650.89999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 110,
+        "distance_passes": 110
+      },
+      "single": {
+        "n": 128,
+        "matches": 86,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 12,
+        "distance_passes": 12
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 6,
+      "calibration": 7,
+      "threshold": 103184.99999999996,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 63,
+        "distance_passes": 63
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 43380.6,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 114,
+        "distance_passes": 114
+      },
+      "single": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 14,
+        "distance_passes": 14
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 43380.6,
+      "genuine": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 86,
+        "distance_passes": 87
+      },
+      "single": {
+        "n": 128,
+        "matches": 107,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 2,
+        "distance_passes": 2
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 43380.6,
+      "genuine": {
+        "n": 128,
+        "matches": 119,
+        "accepted": 101,
+        "distance_passes": 101
+      },
+      "single": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 2,
+        "distance_passes": 2
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 43380.6,
+      "genuine": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 90,
+        "distance_passes": 90
+      },
+      "single": {
+        "n": 128,
+        "matches": 101,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 4,
+        "distance_passes": 4
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 113123.69999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 103,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 113123.69999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 123,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 99,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 116,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 113123.69999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 99,
+        "accepted": 64,
+        "distance_passes": 64
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 115,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 134432.9999999996,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 96,
+        "accepted": 92,
+        "distance_passes": 92
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 134432.9999999996,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 113,
+        "distance_passes": 113
+      },
+      "single": {
+        "n": 128,
+        "matches": 86,
+        "accepted": 81,
+        "distance_passes": 81
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 7,
+      "calibration": 8,
+      "threshold": 63701.6,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 29,
+        "distance_passes": 29
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 77,
+        "distance_passes": 77
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 41725.5,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 11,
+        "distance_passes": 11
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 41725.5,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 87,
+        "distance_passes": 87
+      },
+      "single": {
+        "n": 128,
+        "matches": 103,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 0,
+        "distance_passes": 0
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 41725.5,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 98,
+        "distance_passes": 98
+      },
+      "single": {
+        "n": 128,
+        "matches": 111,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 0,
+        "distance_passes": 0
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 41725.5,
+      "genuine": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 90,
+        "distance_passes": 90
+      },
+      "single": {
+        "n": 128,
+        "matches": 103,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 0,
+        "distance_passes": 0
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 67486.89999999995,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 118,
+        "distance_passes": 118
+      },
+      "single": {
+        "n": 128,
+        "matches": 100,
+        "accepted": 31,
+        "distance_passes": 31
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 87,
+        "distance_passes": 87
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 67486.89999999995,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 123,
+        "distance_passes": 123
+      },
+      "single": {
+        "n": 128,
+        "matches": 93,
+        "accepted": 30,
+        "distance_passes": 30
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 114,
+        "accepted": 82,
+        "distance_passes": 82
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 67486.89999999995,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 117,
+        "distance_passes": 117
+      },
+      "single": {
+        "n": 128,
+        "matches": 91,
+        "accepted": 32,
+        "distance_passes": 32
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 113,
+        "accepted": 84,
+        "distance_passes": 84
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 153213.89999999967,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 122,
+        "distance_passes": 122
+      },
+      "single": {
+        "n": 128,
+        "matches": 95,
+        "accepted": 87,
+        "distance_passes": 88
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 153213.89999999967,
+      "genuine": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 115,
+        "distance_passes": 115
+      },
+      "single": {
+        "n": 128,
+        "matches": 87,
+        "accepted": 82,
+        "distance_passes": 82
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 8,
+      "calibration": 9,
+      "threshold": 79429.89999999998,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 124,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 37,
+        "distance_passes": 37
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 1,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 47229.7,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 21,
+        "distance_passes": 21
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 47229.7,
+      "genuine": {
+        "n": 128,
+        "matches": 122,
+        "accepted": 94,
+        "distance_passes": 95
+      },
+      "single": {
+        "n": 128,
+        "matches": 104,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 15,
+        "distance_passes": 15
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 47229.7,
+      "genuine": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 109,
+        "distance_passes": 109
+      },
+      "single": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 14,
+        "distance_passes": 14
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 47229.7,
+      "genuine": {
+        "n": 128,
+        "matches": 121,
+        "accepted": 98,
+        "distance_passes": 98
+      },
+      "single": {
+        "n": 128,
+        "matches": 99,
+        "accepted": 0,
+        "distance_passes": 0
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 13,
+        "distance_passes": 13
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 2,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 79887.69999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 122,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 124,
+        "accepted": 40,
+        "distance_passes": 40
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 79887.69999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 125,
+        "accepted": 119,
+        "distance_passes": 121
+      },
+      "single": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 36,
+        "distance_passes": 36
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 79887.69999999997,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 117,
+        "distance_passes": 117
+      },
+      "single": {
+        "n": 128,
+        "matches": 123,
+        "accepted": 34,
+        "distance_passes": 34
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 96,
+        "distance_passes": 96
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 3,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 222255.4999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 125,
+        "distance_passes": 125
+      },
+      "single": {
+        "n": 128,
+        "matches": 98,
+        "accepted": 91,
+        "distance_passes": 102
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 222255.4999999999,
+      "genuine": {
+        "n": 128,
+        "matches": 126,
+        "accepted": 115,
+        "distance_passes": 116
+      },
+      "single": {
+        "n": 128,
+        "matches": 88,
+        "accepted": 84,
+        "distance_passes": 96
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 112,
+        "accepted": 112,
+        "distance_passes": 112
+      }
+    },
+    {
+      "registration_run": 4,
+      "verification_run": 4,
+      "evaluation": 9,
+      "calibration": 0,
+      "threshold": 122655.69999999949,
+      "genuine": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 124,
+        "distance_passes": 124
+      },
+      "single": {
+        "n": 128,
+        "matches": 127,
+        "accepted": 76,
+        "distance_passes": 76
+      },
+      "ensemble": {
+        "n": 128,
+        "matches": 128,
+        "accepted": 99,
+        "distance_passes": 99
+      }
+    }
+  ],
+  "retrospective_bounds": [
+    {
+      "registration_run": 1,
+      "evaluation": 0,
+      "calibration": 1,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.671875
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 0,
+      "calibration": 1,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.640625
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 0,
+      "calibration": 1,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 49672,
+      "worst_x1_spoof_rate": 0.140625,
+      "zero_observed_spoof_max_min_genuine": 0.90625
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 1,
+      "calibration": 2,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.734375
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 1,
+      "calibration": 2,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.8046875
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 1,
+      "calibration": 2,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 225718,
+      "worst_x1_spoof_rate": 0.90625,
+      "zero_observed_spoof_max_min_genuine": 0.8515625
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 2,
+      "calibration": 3,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 261518,
+      "worst_x1_spoof_rate": 0.921875,
+      "zero_observed_spoof_max_min_genuine": 0.734375
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 2,
+      "calibration": 3,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 63670,
+      "worst_x1_spoof_rate": 0.578125,
+      "zero_observed_spoof_max_min_genuine": 0.84375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 2,
+      "calibration": 3,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 100252,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8828125
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 3,
+      "calibration": 4,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.6796875
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 3,
+      "calibration": 4,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 122004,
+      "worst_x1_spoof_rate": 0.7578125,
+      "zero_observed_spoof_max_min_genuine": 0.8125
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 3,
+      "calibration": 4,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 125788,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 4,
+      "calibration": 5,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.671875
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 4,
+      "calibration": 5,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 119504,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 4,
+      "calibration": 5,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 228464,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 5,
+      "calibration": 6,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.640625
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 5,
+      "calibration": 6,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 120380,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.8046875
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 5,
+      "calibration": 6,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 282256,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 6,
+      "calibration": 7,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.65625
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 6,
+      "calibration": 7,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 133302,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.84375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 6,
+      "calibration": 7,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 282874,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8203125
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 7,
+      "calibration": 8,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.65625
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 7,
+      "calibration": 8,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 142208,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 7,
+      "calibration": 8,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 268092,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8515625
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 8,
+      "calibration": 9,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 473140,
+      "worst_x1_spoof_rate": 0.9921875,
+      "zero_observed_spoof_max_min_genuine": 0.6796875
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 8,
+      "calibration": 9,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 113648,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 8,
+      "calibration": 9,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 293020,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8046875
+    },
+    {
+      "registration_run": 1,
+      "evaluation": 9,
+      "calibration": 0,
+      "genuine_goal": 0.95,
+      "attainable": false,
+      "zero_observed_spoof_max_min_genuine": 0.6875
+    },
+    {
+      "registration_run": 2,
+      "evaluation": 9,
+      "calibration": 0,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 127026,
+      "worst_x1_spoof_rate": 0.75,
+      "zero_observed_spoof_max_min_genuine": 0.8359375
+    },
+    {
+      "registration_run": 3,
+      "evaluation": 9,
+      "calibration": 0,
+      "genuine_goal": 0.95,
+      "attainable": true,
+      "threshold": 332764,
+      "worst_x1_spoof_rate": 0.875,
+      "zero_observed_spoof_max_min_genuine": 0.8125
+    }
+  ]
+}

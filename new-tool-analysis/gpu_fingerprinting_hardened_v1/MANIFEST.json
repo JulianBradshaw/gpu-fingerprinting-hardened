@@ -1,0 +1,29 @@
+{
+  "version": "hardening-research-v1",
+  "cpu_unit_tests_passed": 23,
+  "cuda_compiled": true,
+  "cuda_platform": "Windows x86_64",
+  "cuda_version": "12.4.99",
+  "cuda_architectures": [
+    "sm_75",
+    "sm_90"
+  ],
+  "msvc_compatibility_toolset": "14.38.33130",
+  "hardware_tested": false,
+  "sha256": {
+    "build_windows.cmd": "d4f2af9c051f7f65fa73020ee687bc19bd0b4b0b1fa45328a46d86a9c64da0a6",
+    "chacha20_core.h": "b28ba49b5ed3e5c542aab1a919816caa820303d1fba390d552cacc3affc2988b",
+    "CHECKLIST_REVIEW.md": "400c967ba623b06dcff51ec298c6b15211f9248bb70e8c58db190063eafa4dc8",
+    "collect.py": "9cc48beb65edc0f2ee668586fc52f9979400bbb958bd4b93a40286ce9500912f",
+    "crypto_selftest.cpp": "6300ac56a8cd307c699a546cab0e2b81b1d3be88f034963119575ab1e50b1d77",
+    "evaluate.py": "9bb64bbf07fe6fb777de5ee0f95f3c277d7f8177a2b7f113b290eab57bb6dca2",
+    "fingerprint.py": "81eb87a282a40fe0fdb8636baef645e16d0acb46449b526f4b47d83deb7b6b67",
+    "manage.py": "d56e3459772c6ec10529ea04b538a307a033466ab3b0199fd1100467b354efc1",
+    "probe_hardened.cu": "52700c2180b533e33d3bf7df5ac7fd87d21b93cc92ca2714b660d27a1c5c85fc",
+    "probe_hardened_sm75.exe": "e70a7ca49f3b6afc4889dd8eb06d94a7d49524fbfbc2631ec3a1c2d3d8817f73",
+    "README.md": "06f08c981aca0a91889a04c599699c7d75b98254dd98c561a2bd95ec1409e8e5",
+    "requirements.txt": "a83a2a4ed7ab2e022b9b8a83cfa2b8cf52cc243006c597e8b96f90a8365590ac",
+    "test_hardening.py": "fe0c58ca3fbc2a05c7176a317d896e6adcd5b71a53c1fc7091ca1b67780ce124",
+    "VALIDATION.md": "1ea33223cbbe2bf2e6cb58ff8b6b4114d14470d17eaeb9cb239da0ebd0942671"
+  }
+}

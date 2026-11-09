@@ -1,0 +1,6 @@
+compiling original + no-sleep variant...
+
+runtime  original   842.6 ms   no-sleep   799.7 ms   saved    42.9 ms
+fingerprint L1  noise floor (orig vs orig)      11624
+fingerprint L1  original vs no-sleep           180086
+  ratio 15.5x noise  -> sleeps SHAPE the fingerprint (stripping changes the answer)

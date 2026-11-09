@@ -1,0 +1,958 @@
+{
+  "scope": "Six chronological forward comparisons. Repeated target challenges scored against multiple registries are repeated events, not independent trials.",
+  "genuine_failure_by_chip": {
+    "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 66,
+    "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 28,
+    "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 41,
+    "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 2,
+    "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 1
+  },
+  "genuine_failure_by_seed": {
+    "1789368711": 10,
+    "43676229": 7,
+    "1282648386": 7,
+    "1582316135": 9,
+    "831769172": 6,
+    "1160692746": 7,
+    "1873586768": 7,
+    "694443915": 11,
+    "1602297017": 13,
+    "533722196": 9,
+    "1859447115": 10,
+    "1121373020": 8,
+    "748799881": 8,
+    "802338724": 7,
+    "1524289825": 11,
+    "392105170": 8
+  },
+  "breakdown": [
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "model": "genuine",
+      "event_count": 41,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 15,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 12,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 13,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 1
+      },
+      "by_seed": {
+        "1789368711": 3,
+        "43676229": 3,
+        "1282648386": 2,
+        "1582316135": 3,
+        "831769172": 3,
+        "1160692746": 3,
+        "1873586768": 1,
+        "694443915": 3,
+        "1602297017": 3,
+        "533722196": 3,
+        "1859447115": 3,
+        "1121373020": 3,
+        "748799881": 2,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "model": "source_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 2,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "model": "genuine",
+      "event_count": 30,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 9,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 13,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 7,
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 1
+      },
+      "by_seed": {
+        "1789368711": 2,
+        "43676229": 1,
+        "1282648386": 1,
+        "1582316135": 2,
+        "1160692746": 1,
+        "1873586768": 2,
+        "694443915": 3,
+        "1602297017": 4,
+        "533722196": 1,
+        "1859447115": 3,
+        "1121373020": 2,
+        "748799881": 2,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "model": "source_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 3,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "model": "genuine",
+      "event_count": 38,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 9,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 12,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 1
+      },
+      "by_seed": {
+        "1789368711": 3,
+        "43676229": 2,
+        "1282648386": 2,
+        "1582316135": 1,
+        "831769172": 1,
+        "1160692746": 2,
+        "1873586768": 2,
+        "694443915": 3,
+        "1602297017": 3,
+        "533722196": 3,
+        "1859447115": 2,
+        "1121373020": 2,
+        "748799881": 3,
+        "802338724": 2,
+        "1524289825": 4,
+        "392105170": 3
+      }
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "model": "source_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 1,
+      "verification_run": 4,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 0,
+      "n": 128,
+      "by_chip": {},
+      "by_seed": {}
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "model": "genuine",
+      "event_count": 5,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 5
+      },
+      "by_seed": {
+        "1789368711": 1,
+        "694443915": 1,
+        "1602297017": 1,
+        "1859447115": 1,
+        "1524289825": 1
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "model": "source_trained/single/x1.0",
+      "event_count": 30,
+      "n": 128,
+      "by_chip": {
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 14
+      },
+      "by_seed": {
+        "1789368711": 2,
+        "43676229": 2,
+        "1282648386": 2,
+        "1582316135": 2,
+        "831769172": 2,
+        "1160692746": 2,
+        "1873586768": 2,
+        "694443915": 2,
+        "1602297017": 1,
+        "533722196": 2,
+        "1859447115": 2,
+        "1121373020": 2,
+        "748799881": 1,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 82,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 15,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 3
+      },
+      "by_seed": {
+        "1789368711": 5,
+        "43676229": 5,
+        "1282648386": 5,
+        "1582316135": 5,
+        "831769172": 6,
+        "1160692746": 5,
+        "1873586768": 5,
+        "694443915": 6,
+        "1602297017": 4,
+        "533722196": 5,
+        "1859447115": 6,
+        "1121373020": 5,
+        "748799881": 5,
+        "802338724": 5,
+        "1524289825": 5,
+        "392105170": 5
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 26,
+      "n": 128,
+      "by_chip": {
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 12,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 14
+      },
+      "by_seed": {
+        "1789368711": 2,
+        "43676229": 1,
+        "1282648386": 2,
+        "1582316135": 1,
+        "831769172": 2,
+        "1160692746": 2,
+        "1873586768": 2,
+        "694443915": 1,
+        "1602297017": 1,
+        "533722196": 2,
+        "1859447115": 2,
+        "1121373020": 1,
+        "748799881": 1,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 3,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 75,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 9,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 2
+      },
+      "by_seed": {
+        "1789368711": 5,
+        "43676229": 5,
+        "1282648386": 5,
+        "1582316135": 5,
+        "831769172": 5,
+        "1160692746": 4,
+        "1873586768": 4,
+        "694443915": 5,
+        "1602297017": 4,
+        "533722196": 5,
+        "1859447115": 6,
+        "1121373020": 4,
+        "748799881": 5,
+        "802338724": 4,
+        "1524289825": 4,
+        "392105170": 5
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "model": "genuine",
+      "event_count": 11,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 10,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 1
+      },
+      "by_seed": {
+        "1789368711": 1,
+        "43676229": 1,
+        "1582316135": 1,
+        "831769172": 1,
+        "1873586768": 1,
+        "1602297017": 1,
+        "533722196": 1,
+        "1859447115": 1,
+        "1121373020": 1,
+        "1524289825": 1,
+        "392105170": 1
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "model": "source_trained/single/x1.0",
+      "event_count": 32,
+      "n": 128,
+      "by_chip": {
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16
+      },
+      "by_seed": {
+        "1789368711": 2,
+        "43676229": 2,
+        "1282648386": 2,
+        "1582316135": 2,
+        "831769172": 2,
+        "1160692746": 2,
+        "1873586768": 2,
+        "694443915": 2,
+        "1602297017": 2,
+        "533722196": 2,
+        "1859447115": 2,
+        "1121373020": 2,
+        "748799881": 2,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 84,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 4
+      },
+      "by_seed": {
+        "1789368711": 5,
+        "43676229": 5,
+        "1282648386": 5,
+        "1582316135": 6,
+        "831769172": 6,
+        "1160692746": 5,
+        "1873586768": 5,
+        "694443915": 6,
+        "1602297017": 5,
+        "533722196": 5,
+        "1859447115": 6,
+        "1121373020": 5,
+        "748799881": 5,
+        "802338724": 5,
+        "1524289825": 5,
+        "392105170": 5
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 31,
+      "n": 128,
+      "by_chip": {
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 15,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16
+      },
+      "by_seed": {
+        "1789368711": 2,
+        "43676229": 2,
+        "1282648386": 2,
+        "1582316135": 2,
+        "831769172": 2,
+        "1160692746": 2,
+        "1873586768": 2,
+        "694443915": 2,
+        "1602297017": 1,
+        "533722196": 2,
+        "1859447115": 2,
+        "1121373020": 2,
+        "748799881": 2,
+        "802338724": 2,
+        "1524289825": 2,
+        "392105170": 2
+      }
+    },
+    {
+      "registration_run": 2,
+      "verification_run": 4,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 88,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 8,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16
+      },
+      "by_seed": {
+        "1789368711": 6,
+        "43676229": 5,
+        "1282648386": 6,
+        "1582316135": 6,
+        "831769172": 6,
+        "1160692746": 5,
+        "1873586768": 5,
+        "694443915": 6,
+        "1602297017": 5,
+        "533722196": 6,
+        "1859447115": 6,
+        "1121373020": 5,
+        "748799881": 5,
+        "802338724": 5,
+        "1524289825": 5,
+        "392105170": 6
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "model": "genuine",
+      "event_count": 13,
+      "n": 128,
+      "by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 11,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 2
+      },
+      "by_seed": {
+        "1282648386": 2,
+        "1582316135": 2,
+        "831769172": 1,
+        "1160692746": 1,
+        "1873586768": 1,
+        "694443915": 1,
+        "1602297017": 1,
+        "533722196": 1,
+        "748799881": 1,
+        "802338724": 1,
+        "1524289825": 1
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "model": "source_trained/single/x1.0",
+      "event_count": 82,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 16,
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 2
+      },
+      "by_seed": {
+        "1789368711": 5,
+        "43676229": 6,
+        "1282648386": 5,
+        "1582316135": 5,
+        "831769172": 5,
+        "1160692746": 5,
+        "1873586768": 5,
+        "694443915": 5,
+        "1602297017": 5,
+        "533722196": 5,
+        "1859447115": 5,
+        "1121373020": 5,
+        "748799881": 5,
+        "802338724": 5,
+        "1524289825": 5,
+        "392105170": 6
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "model": "source_trained/ensemble/x1.0",
+      "event_count": 112,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 16,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16
+      },
+      "by_seed": {
+        "1789368711": 7,
+        "43676229": 7,
+        "1282648386": 7,
+        "1582316135": 7,
+        "831769172": 7,
+        "1160692746": 7,
+        "1873586768": 7,
+        "694443915": 7,
+        "1602297017": 7,
+        "533722196": 7,
+        "1859447115": 7,
+        "1121373020": 7,
+        "748799881": 7,
+        "802338724": 7,
+        "1524289825": 7,
+        "392105170": 7
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "model": "destination_trained/single/x1.0",
+      "event_count": 68,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 4
+      },
+      "by_seed": {
+        "1789368711": 4,
+        "43676229": 4,
+        "1282648386": 4,
+        "1582316135": 5,
+        "831769172": 5,
+        "1160692746": 4,
+        "1873586768": 4,
+        "694443915": 4,
+        "1602297017": 4,
+        "533722196": 4,
+        "1859447115": 4,
+        "1121373020": 5,
+        "748799881": 4,
+        "802338724": 4,
+        "1524289825": 5,
+        "392105170": 4
+      }
+    },
+    {
+      "registration_run": 3,
+      "verification_run": 4,
+      "model": "destination_trained/ensemble/x1.0",
+      "event_count": 96,
+      "n": 128,
+      "by_chip": {
+        "GPU-8ccb9b2c-d685-0de4-adc7-1a0c9250ef09": 16,
+        "GPU-03d71a03-3ab5-bed2-4b2d-68c1ee247c94": 16,
+        "GPU-daa43e22-9e3c-734c-f7b0-e8bbd5710bfc": 16,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 16,
+        "GPU-5f82a0d1-2fdf-6cef-0ea6-28efc7bf976b": 16,
+        "GPU-c6fe84c9-2c6c-8d06-79d1-5ccfd8999efa": 16
+      },
+      "by_seed": {
+        "1789368711": 6,
+        "43676229": 6,
+        "1282648386": 6,
+        "1582316135": 6,
+        "831769172": 6,
+        "1160692746": 6,
+        "1873586768": 6,
+        "694443915": 6,
+        "1602297017": 6,
+        "533722196": 6,
+        "1859447115": 6,
+        "1121373020": 6,
+        "748799881": 6,
+        "802338724": 6,
+        "1524289825": 6,
+        "392105170": 6
+      }
+    }
+  ],
+  "calibration_tails": [
+    {
+      "run": 1,
+      "threshold": 41725.5,
+      "above_threshold_n": 7,
+      "tail_by_chip": {
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 4,
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 1,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 2
+      },
+      "tail_by_seed": {
+        "1282648386": 1,
+        "1582316135": 1,
+        "831769172": 1,
+        "1873586768": 1,
+        "694443915": 1,
+        "1121373020": 1,
+        "802338724": 1
+      },
+      "top_ten": [
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1873586768,
+          "distance": 188244.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 694443915,
+          "distance": 160494.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1121373020,
+          "distance": 85846.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 1282648386,
+          "distance": 45094.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 802338724,
+          "distance": 44940.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 1582316135,
+          "distance": 44408.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 831769172,
+          "distance": 41848.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 533722196,
+          "distance": 41498.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 1859447115,
+          "distance": 40304.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 392105170,
+          "distance": 39406.0
+        }
+      ]
+    },
+    {
+      "run": 2,
+      "threshold": 67486.89999999995,
+      "above_threshold_n": 7,
+      "tail_by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 5,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 1,
+        "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a": 1
+      },
+      "tail_by_seed": {
+        "1789368711": 1,
+        "1282648386": 1,
+        "1582316135": 1,
+        "1873586768": 1,
+        "1121373020": 1,
+        "1524289825": 1,
+        "392105170": 1
+      },
+      "top_ten": [
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1282648386,
+          "distance": 253388.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1121373020,
+          "distance": 207244.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1524289825,
+          "distance": 105420.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1789368711,
+          "distance": 87566.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 392105170,
+          "distance": 74684.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1873586768,
+          "distance": 74170.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1582316135,
+          "distance": 69344.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 1789368711,
+          "distance": 64038.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 1859447115,
+          "distance": 60248.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 748799881,
+          "distance": 54646.0
+        }
+      ]
+    },
+    {
+      "run": 3,
+      "threshold": 153213.89999999967,
+      "above_threshold_n": 7,
+      "tail_by_chip": {
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 3,
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 4
+      },
+      "tail_by_seed": {
+        "1789368711": 1,
+        "1282648386": 1,
+        "1582316135": 2,
+        "831769172": 1,
+        "1160692746": 1,
+        "1524289825": 1
+      },
+      "top_ten": [
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1524289825,
+          "distance": 255968.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1582316135,
+          "distance": 251944.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1160692746,
+          "distance": 245286.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 831769172,
+          "distance": 230674.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1582316135,
+          "distance": 193208.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1789368711,
+          "distance": 186004.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1282648386,
+          "distance": 167118.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1789368711,
+          "distance": 127392.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1859447115,
+          "distance": 60234.0
+        },
+        {
+          "chip_uuid": "GPU-1f89c8e5-32da-74f7-21ae-538d1beb6b0a",
+          "seed": 43676229,
+          "distance": 52680.0
+        }
+      ]
+    },
+    {
+      "run": 4,
+      "threshold": 79429.89999999998,
+      "above_threshold_n": 7,
+      "tail_by_chip": {
+        "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4": 6,
+        "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e": 1
+      },
+      "tail_by_seed": {
+        "1160692746": 1,
+        "1873586768": 1,
+        "694443915": 1,
+        "533722196": 1,
+        "1859447115": 1,
+        "748799881": 1,
+        "1524289825": 1
+      },
+      "top_ten": [
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1160692746,
+          "distance": 287428.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 694443915,
+          "distance": 240144.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1859447115,
+          "distance": 195298.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 748799881,
+          "distance": 192798.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1524289825,
+          "distance": 163806.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 533722196,
+          "distance": 89062.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1873586768,
+          "distance": 80426.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 1282648386,
+          "distance": 77580.0
+        },
+        {
+          "chip_uuid": "GPU-3231737a-bfa3-7724-c36f-b8d095aa659e",
+          "seed": 1121373020,
+          "distance": 76530.0
+        },
+        {
+          "chip_uuid": "GPU-beb6ffa9-06bf-ca1a-96ce-a73006f53df4",
+          "seed": 802338724,
+          "distance": 68128.0
+        }
+      ]
+    }
+  ]
+}

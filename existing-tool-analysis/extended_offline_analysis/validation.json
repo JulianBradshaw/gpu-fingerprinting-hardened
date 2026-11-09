@@ -1,0 +1,7 @@
+{
+  "role_separation_checks": "all pass",
+  "genuine_default_controls": 16,
+  "pooled_defense_model_percentile_controls": 390,
+  "balanced_default_model_controls": 30,
+  "status": "all pass"
+}
