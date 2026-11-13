@@ -6,7 +6,7 @@ Code, derived results and the draft paper for an adversarial evaluation of softw
 
 **Status:** draft. The paper is in [`paper/gpu_fingerprinting_hardened_paper.pdf`](paper/gpu_fingerprinting_hardened_paper.pdf). Rates in this README are copied from the paper; they are descriptive results from short-gap, single-host trials and have not been independently replicated.
 
-This work builds on Tee and Happel, *GPU fingerprinting for location verification* (arXiv:2605.01930v2, June 2026; code: <https://github.com/waynetee/gpu-fingerprinting>). Their probe is called the **legacy probe** below.
+This work builds on Tee and Happel (see [Reference](#reference)). Their probe is called the **legacy probe** below.
 
 ## Why this matters
 
@@ -114,6 +114,6 @@ The hardened-run scripts (`eight_h200_ensemble.py analyze`, `analyze_eight_h200_
 - `new-tool-analysis/gpu_fingerprinting_hardened_v1/MANIFEST.json` records hashes from the original package, which included a prebuilt Windows binary (`probe_hardened_sm75.exe`). That binary is not included, and one wording change in that folder's `README.md` means its hash no longer matches the manifest entry.
 - The three `test*.log` files were converted from UTF-16 to UTF-8.
 
-## Citation
+## Reference
 
-Citation details will be added when the paper is released.
+W. Tee and J. Happel. GPU fingerprinting for location verification. *arXiv:2605.01930v2*, June 2026. Code: <https://github.com/waynetee/gpu-fingerprinting>.
